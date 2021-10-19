@@ -7,10 +7,6 @@
 
 import SwiftUI
 
-//func makeCardContent(index: Int) -> String{
-//  return "✈️"
-//}
-
 class EmojiMemoryGame: ObservableObject {
   
   static let emojis = ["🚗", "🚕", "🚙", "🚌", "🚎", "🏎", "🚓", "🚑", "🚒", "🛻", "🚚", "🚛", "🚜", "🚲", "🛵", "🏍", "🛺", "🚝", "✈️", "🚤","🚂", "🚀", "🚁"]
